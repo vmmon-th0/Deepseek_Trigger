@@ -1,1 +1,1 @@
-![deepseek.](https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i03hSji6MSj0/v1/-1x-1.webp))
+![deepseek.](https://static.euronews.com/articles/stories/09/00/90/24/1200x675_cmsv2_9db6dfd4-701a-5bb0-9291-d12401e215d9-9009024.jpg)
