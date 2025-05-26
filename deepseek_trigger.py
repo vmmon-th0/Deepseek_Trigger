@@ -15,7 +15,7 @@ def chat_with_deepseek(api_key, params):
     
     print("\n--- Chat Session ('quit' to exit) ---")
     while True:
-        user_input = input("\nVous: ")
+        user_input = input("\nYou: ")
         
         if user_input.lower() in ['quit', 'exit', 'q']:
             print("EOS.")
